@@ -1,0 +1,11 @@
+*.*~
+__pycache__/
+*.pkl
+experiments/_exp*
+**/*.egg-info
+.python-version
+.idea/
+.vscode/
+.DS_Store
+_build/
+.venv

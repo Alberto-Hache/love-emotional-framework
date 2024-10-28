@@ -6,15 +6,14 @@ This repository contains the code and data to reproduce the results presented in
 - **Authors:** Alberto Hernández-Marcos, Eduardo Ros  
 - **Publisher:** Springer Nature  
 - **Journal:** *Scientific Reports*  
-- **DOI:** 10.1038/s41598-024-72817-x  
-- **Article Link:** (Pending publication)  
+- **DOI:** 10.1038/s41598-024-72817-x
+- **Article Link:** [nature.com/articles/s41598-024-72817-x](https://www.nature.com/articles/s41598-024-72817-x)
 
-<!--
 ## Citation
 If you use this code or data, please cite the paper:
 
-Hernández-Marcos, A., & Ros, E. (2024). A generic self-learning emotional framework for machines. Scientific Reports, 14, 72817. https://doi.org/10.1038/s41598-024-72817-x
--->
+Hernández-Marcos, A., Ros, E. A generic self-learning emotional framework for machines. Sci Rep 14, 25858 (2024). https://doi.org/10.1038/s41598-024-72817-x
+
 
 ## Repository contents
 
